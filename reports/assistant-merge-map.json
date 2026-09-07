@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "calendar",
+      "partner-agreement-library",
+      "tracking-link-code-registry",
+      "click-event-ingestion",
+      "order-attribution",
+      "return-cancellation-reversal",
+      "performance-bonus",
+      "dispute-workflow",
+      "program-and-agreement-library",
+      "partner-and-dealer-registry",
+      "fund-accrual-calculation",
+      "proof-of-performance-collection",
+      "claim-deadline-tracking",
+      "claim-preparation-and-submission",
+      "vendor-rejection-management",
+      "resubmission-workflow",
+      "expiring-fund-alerts",
+      "partner-utilization-analytics",
+      "agency-and-scope-library",
+      "insertion-order-ingestion",
+      "invalid-traffic-and-viewability",
+      "agency-platform-dispute",
+      "insertion-order-library",
+      "dsp-log-ingestion",
+      "ssp-log-ingestion",
+      "invalid-traffic-adjustment",
+      "retail-media-agreement-library",
+      "rate-card-calculation",
+      "under-delivery-makegood",
+      "retailer-dispute-workflow",
+      "ab-tests",
+      "translator",
+      "usage",
+      "persona-generator",
+      "claim-substantiation",
+      "competitors",
+      "audience-segmentation",
+      "audience-overlap",
+      "micro-influencer-discovery",
+      "content",
+      "audience-segmentation-ai-audiencejs-i",
+      "reviews",
+      "content-writer",
+      "ad-creator",
+      "audience-segmenter",
+      "segment-builder",
+      "attribution-modeler",
+      "persona-creator",
+      "influencer-matcher",
+      "hashtag-generator",
+      "landing-page-builder",
+      "tone-adjustments",
+      "ab-variations",
+      "localizations",
+      "personalizer",
+      "solicitations",
+      "fake-review-identification",
+      "review-aggregation-from-google-yelp-tripa",
+      "analytics-dashboard-response-rate-timetor",
+      "notifications-for-new-reviews",
+      "aiseocontent-writer",
+      "post",
+      "hashtag",
+      "caption",
+      "reply",
+      "report",
+      "competitor-swipe",
+      "influencer-finder",
+      "generator",
+      "performance-analytics",
+      "paid-advertising-management",
+      "ai-driven-customer-segmentation-for-targeted-testimonial-selection"
+    ],
+    "ai": true,
+    "representativeId": "calendar",
+    "description": "One assistant for 72 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "calendar",
+        "title": "Calendar",
+        "originalPath": "/features/calendar"
+      },
+      {
+        "id": "partner-agreement-library",
+        "title": "Partner agreement library",
+        "originalPath": "/features/partner-agreement-library"
+      },
+      {
+        "id": "tracking-link-code-registry",
+        "title": "Tracking link code registry",
+        "originalPath": "/features/tracking-link-code-registry"
+      },
+      {
+        "id": "click-event-ingestion",
+        "title": "Click event ingestion",
+        "originalPath": "/features/click-event-ingestion"
+      },
+      {
+        "id": "order-attribution",
+        "title": "Order attribution",
+        "originalPath": "/features/order-attribution"
+      },
+      {
+        "id": "return-cancellation-reversal",
+        "title": "Return cancellation reversal",
+        "originalPath": "/features/return-cancellation-reversal"
+      },
+      {
+        "id": "performance-bonus",
+        "title": "Performance bonus",
+        "originalPath": "/features/performance-bonus"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "program-and-agreement-library",
+        "title": "Program and agreement library",
+        "originalPath": "/features/program-and-agreement-library"
+      },
+      {
+        "id": "partner-and-dealer-registry",
+        "title": "Partner and dealer registry",
+        "originalPath": "/features/partner-and-dealer-registry"
+      },
+      {
+        "id": "fund-accrual-calculation",
+        "title": "Fund accrual calculation",
+        "originalPath": "/features/fund-accrual-calculation"
+      },
+      {
+        "id": "proof-of-performance-collection",
+        "title": "Proof-of-performance collection",
+        "originalPath": "/features/proof-of-performance-collection"
+      },
+      {
+        "id": "claim-deadline-tracking",
+        "title": "Claim deadline tracking",
+        "originalPath": "/features/claim-deadline-tracking"
+      },
+      {
+        "id": "claim-preparation-and-submission",
+        "title": "Claim preparation and submission",
+        "originalPath": "/features/claim-preparation-and-submission"
+      },
+      {
+        "id": "vendor-rejection-management",
+        "title": "Vendor rejection management",
+        "originalPath": "/features/vendor-rejection-management"
+      },
+      {
+        "id": "resubmission-workflow",
+        "title": "Resubmission workflow",
+        "originalPath": "/features/resubmission-workflow"
+      },
+      {
+        "id": "expiring-fund-alerts",
+        "title": "Expiring-fund alerts",
+        "originalPath": "/features/expiring-fund-alerts"
+      },
+      {
+        "id": "partner-utilization-analytics",
+        "title": "Partner utilization analytics",
+        "originalPath": "/features/partner-utilization-analytics"
+      },
+      {
+        "id": "agency-and-scope-library",
+        "title": "Agency and scope library",
+        "originalPath": "/features/agency-and-scope-library"
+      },
+      {
+        "id": "insertion-order-ingestion",
+        "title": "Insertion-order ingestion",
+        "originalPath": "/features/insertion-order-ingestion"
+      },
+      {
+        "id": "invalid-traffic-and-viewability",
+        "title": "Invalid traffic and viewability",
+        "originalPath": "/features/invalid-traffic-and-viewability"
+      },
+      {
+        "id": "agency-platform-dispute",
+        "title": "Agency platform dispute",
+        "originalPath": "/features/agency-platform-dispute"
+      },
+      {
+        "id": "insertion-order-library",
+        "title": "Insertion order library",
+        "originalPath": "/features/insertion-order-library"
+      },
+      {
+        "id": "dsp-log-ingestion",
+        "title": "DSP log ingestion",
+        "originalPath": "/features/dsp-log-ingestion"
+      },
+      {
+        "id": "ssp-log-ingestion",
+        "title": "SSP log ingestion",
+        "originalPath": "/features/ssp-log-ingestion"
+      },
+      {
+        "id": "invalid-traffic-adjustment",
+        "title": "Invalid traffic adjustment",
+        "originalPath": "/features/invalid-traffic-adjustment"
+      },
+      {
+        "id": "retail-media-agreement-library",
+        "title": "Retail media agreement library",
+        "originalPath": "/features/retail-media-agreement-library"
+      },
+      {
+        "id": "rate-card-calculation",
+        "title": "Rate card calculation",
+        "originalPath": "/features/rate-card-calculation"
+      },
+      {
+        "id": "under-delivery-makegood",
+        "title": "Under-delivery makegood",
+        "originalPath": "/features/under-delivery-makegood"
+      },
+      {
+        "id": "retailer-dispute-workflow",
+        "title": "Retailer dispute workflow",
+        "originalPath": "/features/retailer-dispute-workflow"
+      },
+      {
+        "id": "ab-tests",
+        "title": "A/B Testing Framework",
+        "originalPath": "/features/ab-tests"
+      },
+      {
+        "id": "translator",
+        "title": "Multi-Language Translator",
+        "originalPath": "/features/translator"
+      },
+      {
+        "id": "usage",
+        "title": "Usage & Analytics",
+        "originalPath": "/features/usage"
+      },
+      {
+        "id": "persona-generator",
+        "title": "Persona generator",
+        "originalPath": "/features/persona-generator"
+      },
+      {
+        "id": "claim-substantiation",
+        "title": "Claim substantiation",
+        "originalPath": "/features/claim-substantiation"
+      },
+      {
+        "id": "competitors",
+        "title": "Competitors",
+        "originalPath": "/features/competitors"
+      },
+      {
+        "id": "audience-segmentation",
+        "title": "Audience Segmentation",
+        "originalPath": "/features/audience-segmentation"
+      },
+      {
+        "id": "audience-overlap",
+        "title": "Audience Overlap",
+        "originalPath": "/features/audience-overlap"
+      },
+      {
+        "id": "micro-influencer-discovery",
+        "title": "Micro-Influencer Discovery",
+        "originalPath": "/features/micro-influencer-discovery"
+      },
+      {
+        "id": "content",
+        "title": "Content Generator",
+        "originalPath": "/features/content"
+      },
+      {
+        "id": "audience-segmentation-ai-audiencejs-i",
+        "title": "audience segmentation ai audiencejs i",
+        "originalPath": "/features/audience-segmentation-ai-audiencejs-i"
+      },
+      {
+        "id": "reviews",
+        "title": "Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "content-writer",
+        "title": "Content Writer",
+        "originalPath": "/features/content-writer"
+      },
+      {
+        "id": "ad-creator",
+        "title": "Ad Creator",
+        "originalPath": "/features/ad-creator"
+      },
+      {
+        "id": "audience-segmenter",
+        "title": "Audience Segmenter",
+        "originalPath": "/features/audience-segmenter"
+      },
+      {
+        "id": "segment-builder",
+        "title": "AI Segment Builder",
+        "originalPath": "/features/segment-builder"
+      },
+      {
+        "id": "attribution-modeler",
+        "title": "AI Attribution Modeler",
+        "originalPath": "/features/attribution-modeler"
+      },
+      {
+        "id": "persona-creator",
+        "title": "AI Persona Creator",
+        "originalPath": "/features/persona-creator"
+      },
+      {
+        "id": "influencer-matcher",
+        "title": "AI Influencer Matcher",
+        "originalPath": "/features/influencer-matcher"
+      },
+      {
+        "id": "hashtag-generator",
+        "title": "AI Hashtag Generator",
+        "originalPath": "/features/hashtag-generator"
+      },
+      {
+        "id": "landing-page-builder",
+        "title": "AI Landing Page Builder",
+        "originalPath": "/features/landing-page-builder"
+      },
+      {
+        "id": "tone-adjustments",
+        "title": "AI Tone Adjuster",
+        "originalPath": "/features/tone-adjustments"
+      },
+      {
+        "id": "ab-variations",
+        "title": "A/B Variation Generator",
+        "originalPath": "/features/ab-variations"
+      },
+      {
+        "id": "localizations",
+        "title": "AI Localization Engine",
+        "originalPath": "/features/localizations"
+      },
+      {
+        "id": "personalizer",
+        "title": "Response Personalizer",
+        "originalPath": "/features/personalizer"
+      },
+      {
+        "id": "solicitations",
+        "title": "Review Solicitor",
+        "originalPath": "/features/solicitations"
+      },
+      {
+        "id": "fake-review-identification",
+        "title": "fake review identification",
+        "originalPath": "/features/fake-review-identification"
+      },
+      {
+        "id": "review-aggregation-from-google-yelp-tripa",
+        "title": "review aggregation from google yelp tripa",
+        "originalPath": "/features/review-aggregation-from-google-yelp-tripa"
+      },
+      {
+        "id": "analytics-dashboard-response-rate-timetor",
+        "title": "analytics dashboard response rate timetor",
+        "originalPath": "/features/analytics-dashboard-response-rate-timetor"
+      },
+      {
+        "id": "notifications-for-new-reviews",
+        "title": "notifications for new reviews",
+        "originalPath": "/features/notifications-for-new-reviews"
+      },
+      {
+        "id": "aiseocontent-writer",
+        "title": "Seocontent writer work",
+        "originalPath": "/features/aiseocontent-writer"
+      },
+      {
+        "id": "post",
+        "title": "Post Generator",
+        "originalPath": "/features/post"
+      },
+      {
+        "id": "hashtag",
+        "title": "Hashtag Generator",
+        "originalPath": "/features/hashtag"
+      },
+      {
+        "id": "caption",
+        "title": "Caption Generator",
+        "originalPath": "/features/caption"
+      },
+      {
+        "id": "reply",
+        "title": "Reply Generator",
+        "originalPath": "/features/reply"
+      },
+      {
+        "id": "report",
+        "title": "Report Summary",
+        "originalPath": "/features/report"
+      },
+      {
+        "id": "competitor-swipe",
+        "title": "Competitor Content Swipe",
+        "originalPath": "/features/competitor-swipe"
+      },
+      {
+        "id": "influencer-finder",
+        "title": "Influencer Finder",
+        "originalPath": "/features/influencer-finder"
+      },
+      {
+        "id": "generator",
+        "title": "Generator",
+        "originalPath": "/features/generator"
+      },
+      {
+        "id": "performance-analytics",
+        "title": "Performance analytics",
+        "originalPath": "/features/performance-analytics"
+      },
+      {
+        "id": "paid-advertising-management",
+        "title": "paid advertising management",
+        "originalPath": "/features/paid-advertising-management"
+      },
+      {
+        "id": "ai-driven-customer-segmentation-for-targeted-testimonial-selection",
+        "title": "No AI-driven customer segmentation for targeted te...",
+        "originalPath": "/features/ai-driven-customer-segmentation-for-targeted-testimonial-selection"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "template-builder",
+      "review-summaries",
+      "verify-email",
+      "drafts",
+      "generateresponse-aidrafted-responses"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "template-builder",
+        "title": "Copy Template Builder",
+        "originalPath": "/features/template-builder"
+      },
+      {
+        "id": "review-summaries",
+        "title": "Review Summarizer",
+        "originalPath": "/features/review-summaries"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      },
+      {
+        "id": "drafts",
+        "title": "Drafts",
+        "originalPath": "/features/drafts"
+      },
+      {
+        "id": "generateresponse-aidrafted-responses",
+        "title": "generateresponse aidrafted responses",
+        "originalPath": "/features/generateresponse-aidrafted-responses"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "attribution-window-control",
+      "fraud-traffic-scoring",
+      "partner-statement-audit",
+      "eligibility-and-activity-rules",
+      "rate-and-cpm-validation",
+      "supply-path-exception-workflow",
+      "audience-targeting-evidence",
+      "impression-delivery-validation",
+      "incrementality-evidence",
+      "fraud-detection"
+    ],
+    "ai": true,
+    "representativeId": "attribution-window-control",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "attribution-window-control",
+        "title": "Attribution window control",
+        "originalPath": "/features/attribution-window-control"
+      },
+      {
+        "id": "fraud-traffic-scoring",
+        "title": "Fraud traffic scoring",
+        "originalPath": "/features/fraud-traffic-scoring"
+      },
+      {
+        "id": "partner-statement-audit",
+        "title": "Partner statement audit",
+        "originalPath": "/features/partner-statement-audit"
+      },
+      {
+        "id": "eligibility-and-activity-rules",
+        "title": "Eligibility and activity rules",
+        "originalPath": "/features/eligibility-and-activity-rules"
+      },
+      {
+        "id": "rate-and-cpm-validation",
+        "title": "Rate and CPM validation",
+        "originalPath": "/features/rate-and-cpm-validation"
+      },
+      {
+        "id": "supply-path-exception-workflow",
+        "title": "Supply-path exception workflow",
+        "originalPath": "/features/supply-path-exception-workflow"
+      },
+      {
+        "id": "audience-targeting-evidence",
+        "title": "Audience targeting evidence",
+        "originalPath": "/features/audience-targeting-evidence"
+      },
+      {
+        "id": "impression-delivery-validation",
+        "title": "Impression delivery validation",
+        "originalPath": "/features/impression-delivery-validation"
+      },
+      {
+        "id": "incrementality-evidence",
+        "title": "Incrementality evidence",
+        "originalPath": "/features/incrementality-evidence"
+      },
+      {
+        "id": "fraud-detection",
+        "title": "Fraud Detection",
+        "originalPath": "/features/fraud-detection"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "coupon-poaching-detection",
+      "self-referral-detection",
+      "underdelivery-detection",
+      "bid-request-matching",
+      "impression-event-matching",
+      "benchmark",
+      "copy-scorer",
+      "performance-prediction",
+      "ltv-prediction",
+      "trend-calendar",
+      "matching",
+      "audience",
+      "competitor",
+      "influencer-ltv-prediction-recommending-l",
+      "audience-overlap-detection-recommending",
+      "trend-content-calendar-ai-predicting-top",
+      "performance-prediction-model",
+      "content-calendar-trend-ai",
+      "subject-optimizer",
+      "send-time",
+      "journey-optimizer",
+      "fatigue-detector",
+      "headline-scores",
+      "fake-reviews",
+      "trends",
+      "counterfeit",
+      "fakereviewdetector-ml-scoring",
+      "voice",
+      "posting-time",
+      "content-mix",
+      "insights",
+      "contentmixrecommender",
+      "competitive-testimonial-analysis-via-rag-over-competitor-reviews",
+      "authenticity-scoring-to-detect-ai-generated-vs-real-testimonials",
+      "predictive-scoring-for-which-customers-are-most"
+    ],
+    "ai": true,
+    "representativeId": "coupon-poaching-detection",
+    "description": "One assistant for 35 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "coupon-poaching-detection",
+        "title": "Coupon poaching detection",
+        "originalPath": "/features/coupon-poaching-detection"
+      },
+      {
+        "id": "self-referral-detection",
+        "title": "Self-referral detection",
+        "originalPath": "/features/self-referral-detection"
+      },
+      {
+        "id": "underdelivery-detection",
+        "title": "Underdelivery detection",
+        "originalPath": "/features/underdelivery-detection"
+      },
+      {
+        "id": "bid-request-matching",
+        "title": "Bid request matching",
+        "originalPath": "/features/bid-request-matching"
+      },
+      {
+        "id": "impression-event-matching",
+        "title": "Impression event matching",
+        "originalPath": "/features/impression-event-matching"
+      },
+      {
+        "id": "benchmark",
+        "title": "Performance Benchmarking",
+        "originalPath": "/features/benchmark"
+      },
+      {
+        "id": "copy-scorer",
+        "title": "AI Copy Scorer",
+        "originalPath": "/features/copy-scorer"
+      },
+      {
+        "id": "performance-prediction",
+        "title": "Performance Prediction",
+        "originalPath": "/features/performance-prediction"
+      },
+      {
+        "id": "ltv-prediction",
+        "title": "LTV Prediction",
+        "originalPath": "/features/ltv-prediction"
+      },
+      {
+        "id": "trend-calendar",
+        "title": "Trend & Content Calendar",
+        "originalPath": "/features/trend-calendar"
+      },
+      {
+        "id": "matching",
+        "title": "Influencer Matching",
+        "originalPath": "/features/matching"
+      },
+      {
+        "id": "audience",
+        "title": "Audience Analysis",
+        "originalPath": "/features/audience"
+      },
+      {
+        "id": "competitor",
+        "title": "Competitor Insights",
+        "originalPath": "/features/competitor"
+      },
+      {
+        "id": "influencer-ltv-prediction-recommending-l",
+        "title": "influencer ltv prediction recommending l",
+        "originalPath": "/features/influencer-ltv-prediction-recommending-l"
+      },
+      {
+        "id": "audience-overlap-detection-recommending",
+        "title": "audience overlap detection recommending",
+        "originalPath": "/features/audience-overlap-detection-recommending"
+      },
+      {
+        "id": "trend-content-calendar-ai-predicting-top",
+        "title": "trend content calendar ai predicting top",
+        "originalPath": "/features/trend-content-calendar-ai-predicting-top"
+      },
+      {
+        "id": "performance-prediction-model",
+        "title": "performance prediction model",
+        "originalPath": "/features/performance-prediction-model"
+      },
+      {
+        "id": "content-calendar-trend-ai",
+        "title": "content calendar trend ai",
+        "originalPath": "/features/content-calendar-trend-ai"
+      },
+      {
+        "id": "subject-optimizer",
+        "title": "Subject Line Optimizer",
+        "originalPath": "/features/subject-optimizer"
+      },
+      {
+        "id": "send-time",
+        "title": "Send Time Optimizer",
+        "originalPath": "/features/send-time"
+      },
+      {
+        "id": "journey-optimizer",
+        "title": "AI Journey Optimizer",
+        "originalPath": "/features/journey-optimizer"
+      },
+      {
+        "id": "fatigue-detector",
+        "title": "AI Fatigue Detector",
+        "originalPath": "/features/fatigue-detector"
+      },
+      {
+        "id": "headline-scores",
+        "title": "AI Headline Scorer",
+        "originalPath": "/features/headline-scores"
+      },
+      {
+        "id": "fake-reviews",
+        "title": "Fake Review Detector",
+        "originalPath": "/features/fake-reviews"
+      },
+      {
+        "id": "trends",
+        "title": "Trend Analyzer",
+        "originalPath": "/features/trends"
+      },
+      {
+        "id": "counterfeit",
+        "title": "Counterfeit Detector",
+        "originalPath": "/features/counterfeit"
+      },
+      {
+        "id": "fakereviewdetector-ml-scoring",
+        "title": "fakereviewdetector ml scoring",
+        "originalPath": "/features/fakereviewdetector-ml-scoring"
+      },
+      {
+        "id": "voice",
+        "title": "Voice Analyzer",
+        "originalPath": "/features/voice"
+      },
+      {
+        "id": "posting-time",
+        "title": "Posting Time Optimizer",
+        "originalPath": "/features/posting-time"
+      },
+      {
+        "id": "content-mix",
+        "title": "Content Mix Recommender",
+        "originalPath": "/features/content-mix"
+      },
+      {
+        "id": "insights",
+        "title": "Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "contentmixrecommender",
+        "title": "contentmixrecommender",
+        "originalPath": "/features/contentmixrecommender"
+      },
+      {
+        "id": "competitive-testimonial-analysis-via-rag-over-competitor-reviews",
+        "title": "Competitive testimonial analysis via RAG over comp...",
+        "originalPath": "/features/competitive-testimonial-analysis-via-rag-over-competitor-reviews"
+      },
+      {
+        "id": "authenticity-scoring-to-detect-ai-generated-vs-real-testimonials",
+        "title": "Authenticity scoring to detect AI-generated vs rea...",
+        "originalPath": "/features/authenticity-scoring-to-detect-ai-generated-vs-real-testimonials"
+      },
+      {
+        "id": "predictive-scoring-for-which-customers-are-most",
+        "title": "No predictive scoring for which customers are most...",
+        "originalPath": "/features/predictive-scoring-for-which-customers-are-most"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "commission-tier-calculation",
+      "payment-correction",
+      "invoice-and-payment-evidence",
+      "credit-and-payment-reconciliation",
+      "platform-delivery-reconciliation",
+      "agency-fee-recalculation",
+      "technology-fee-audit",
+      "rebate-and-incentive-reconciliation",
+      "credit-and-makegood-control",
+      "invoice-exception-workbench",
+      "payment-and-recovery-reconciliation",
+      "clearing-price-reconstruction",
+      "dsp-fee-calculation",
+      "ssp-fee-calculation",
+      "data-fee-audit",
+      "verification-fee-audit",
+      "invoice-reconciliation",
+      "click-event-reconciliation",
+      "budget-pacing-control",
+      "invoice-campaign-matching",
+      "credit-reconciliation",
+      "budget-allocator"
+    ],
+    "ai": true,
+    "representativeId": "commission-tier-calculation",
+    "description": "One assistant for 22 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "commission-tier-calculation",
+        "title": "Commission tier calculation",
+        "originalPath": "/features/commission-tier-calculation"
+      },
+      {
+        "id": "payment-correction",
+        "title": "Payment correction",
+        "originalPath": "/features/payment-correction"
+      },
+      {
+        "id": "invoice-and-payment-evidence",
+        "title": "Invoice and payment evidence",
+        "originalPath": "/features/invoice-and-payment-evidence"
+      },
+      {
+        "id": "credit-and-payment-reconciliation",
+        "title": "Credit and payment reconciliation",
+        "originalPath": "/features/credit-and-payment-reconciliation"
+      },
+      {
+        "id": "platform-delivery-reconciliation",
+        "title": "Platform delivery reconciliation",
+        "originalPath": "/features/platform-delivery-reconciliation"
+      },
+      {
+        "id": "agency-fee-recalculation",
+        "title": "Agency fee recalculation",
+        "originalPath": "/features/agency-fee-recalculation"
+      },
+      {
+        "id": "technology-fee-audit",
+        "title": "Technology fee audit",
+        "originalPath": "/features/technology-fee-audit"
+      },
+      {
+        "id": "rebate-and-incentive-reconciliation",
+        "title": "Rebate and incentive reconciliation",
+        "originalPath": "/features/rebate-and-incentive-reconciliation"
+      },
+      {
+        "id": "credit-and-makegood-control",
+        "title": "Credit and makegood control",
+        "originalPath": "/features/credit-and-makegood-control"
+      },
+      {
+        "id": "invoice-exception-workbench",
+        "title": "Invoice exception workbench",
+        "originalPath": "/features/invoice-exception-workbench"
+      },
+      {
+        "id": "payment-and-recovery-reconciliation",
+        "title": "Payment and recovery reconciliation",
+        "originalPath": "/features/payment-and-recovery-reconciliation"
+      },
+      {
+        "id": "clearing-price-reconstruction",
+        "title": "Clearing price reconstruction",
+        "originalPath": "/features/clearing-price-reconstruction"
+      },
+      {
+        "id": "dsp-fee-calculation",
+        "title": "DSP fee calculation",
+        "originalPath": "/features/dsp-fee-calculation"
+      },
+      {
+        "id": "ssp-fee-calculation",
+        "title": "SSP fee calculation",
+        "originalPath": "/features/ssp-fee-calculation"
+      },
+      {
+        "id": "data-fee-audit",
+        "title": "Data fee audit",
+        "originalPath": "/features/data-fee-audit"
+      },
+      {
+        "id": "verification-fee-audit",
+        "title": "Verification fee audit",
+        "originalPath": "/features/verification-fee-audit"
+      },
+      {
+        "id": "invoice-reconciliation",
+        "title": "Invoice reconciliation",
+        "originalPath": "/features/invoice-reconciliation"
+      },
+      {
+        "id": "click-event-reconciliation",
+        "title": "Click event reconciliation",
+        "originalPath": "/features/click-event-reconciliation"
+      },
+      {
+        "id": "budget-pacing-control",
+        "title": "Budget pacing control",
+        "originalPath": "/features/budget-pacing-control"
+      },
+      {
+        "id": "invoice-campaign-matching",
+        "title": "Invoice campaign matching",
+        "originalPath": "/features/invoice-campaign-matching"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "budget-allocator",
+        "title": "AI Budget Allocator",
+        "originalPath": "/features/budget-allocator"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "partner-campaign-analytics",
+      "campaign-preapproval",
+      "brand-compliance-validation",
+      "campaign-roi-and-recovery-analytics",
+      "campaign-and-media-plan-registry",
+      "campaign-agency-and-channel-analytics",
+      "campaign-creative-registry",
+      "campaign-publisher-analytics",
+      "campaign-order-ingestion",
+      "attributed-sales-methodology",
+      "network-campaign-analytics",
+      "brand-voice-check",
+      "competitor-sentiment",
+      "audience-sentiment",
+      "campaigns",
+      "brand-profiles",
+      "outreach",
+      "sentiment",
+      "strategy",
+      "brand-safety",
+      "roi-analysis",
+      "agentic-campaign-manager-autonomously-di",
+      "social-manager",
+      "review-response",
+      "campaign-suggester",
+      "email-campaign-writer",
+      "seo-optimizations",
+      "reputation-trend-forecasting",
+      "sentimentanalysis-classify-sentiment-urge",
+      "competitorsentiment-ai",
+      "reputationriskalert-forecasting-branddama",
+      "audiencesentimentanalysis-aggregate-perce"
+    ],
+    "ai": true,
+    "representativeId": "partner-campaign-analytics",
+    "description": "One assistant for 32 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "partner-campaign-analytics",
+        "title": "Partner campaign analytics",
+        "originalPath": "/features/partner-campaign-analytics"
+      },
+      {
+        "id": "campaign-preapproval",
+        "title": "Campaign preapproval",
+        "originalPath": "/features/campaign-preapproval"
+      },
+      {
+        "id": "brand-compliance-validation",
+        "title": "Brand compliance validation",
+        "originalPath": "/features/brand-compliance-validation"
+      },
+      {
+        "id": "campaign-roi-and-recovery-analytics",
+        "title": "Campaign ROI and recovery analytics",
+        "originalPath": "/features/campaign-roi-and-recovery-analytics"
+      },
+      {
+        "id": "campaign-and-media-plan-registry",
+        "title": "Campaign and media-plan registry",
+        "originalPath": "/features/campaign-and-media-plan-registry"
+      },
+      {
+        "id": "campaign-agency-and-channel-analytics",
+        "title": "Campaign agency and channel analytics",
+        "originalPath": "/features/campaign-agency-and-channel-analytics"
+      },
+      {
+        "id": "campaign-creative-registry",
+        "title": "Campaign creative registry",
+        "originalPath": "/features/campaign-creative-registry"
+      },
+      {
+        "id": "campaign-publisher-analytics",
+        "title": "Campaign publisher analytics",
+        "originalPath": "/features/campaign-publisher-analytics"
+      },
+      {
+        "id": "campaign-order-ingestion",
+        "title": "Campaign order ingestion",
+        "originalPath": "/features/campaign-order-ingestion"
+      },
+      {
+        "id": "attributed-sales-methodology",
+        "title": "Attributed sales methodology",
+        "originalPath": "/features/attributed-sales-methodology"
+      },
+      {
+        "id": "network-campaign-analytics",
+        "title": "Network campaign analytics",
+        "originalPath": "/features/network-campaign-analytics"
+      },
+      {
+        "id": "brand-voice-check",
+        "title": "Brand Voice Checker",
+        "originalPath": "/features/brand-voice-check"
+      },
+      {
+        "id": "competitor-sentiment",
+        "title": "Competitor Sentiment",
+        "originalPath": "/features/competitor-sentiment"
+      },
+      {
+        "id": "audience-sentiment",
+        "title": "Audience Sentiment Predictor",
+        "originalPath": "/features/audience-sentiment"
+      },
+      {
+        "id": "campaigns",
+        "title": "Campaign Workspace",
+        "originalPath": "/features/campaigns"
+      },
+      {
+        "id": "brand-profiles",
+        "title": "Brand Profiles",
+        "originalPath": "/features/brand-profiles"
+      },
+      {
+        "id": "outreach",
+        "title": "Outreach",
+        "originalPath": "/features/outreach"
+      },
+      {
+        "id": "sentiment",
+        "title": "Sentiment Analysis",
+        "originalPath": "/features/sentiment"
+      },
+      {
+        "id": "strategy",
+        "title": "Campaign Strategy",
+        "originalPath": "/features/strategy"
+      },
+      {
+        "id": "brand-safety",
+        "title": "Brand Safety Scanner",
+        "originalPath": "/features/brand-safety"
+      },
+      {
+        "id": "roi-analysis",
+        "title": "Campaign ROI Analyzer",
+        "originalPath": "/features/roi-analysis"
+      },
+      {
+        "id": "agentic-campaign-manager-autonomously-di",
+        "title": "agentic campaign manager autonomously di",
+        "originalPath": "/features/agentic-campaign-manager-autonomously-di"
+      },
+      {
+        "id": "social-manager",
+        "title": "Social Media Manager",
+        "originalPath": "/features/social-manager"
+      },
+      {
+        "id": "review-response",
+        "title": "Review Response",
+        "originalPath": "/features/review-response"
+      },
+      {
+        "id": "campaign-suggester",
+        "title": "Campaign Suggester",
+        "originalPath": "/features/campaign-suggester"
+      },
+      {
+        "id": "email-campaign-writer",
+        "title": "AI Email Campaign Writer",
+        "originalPath": "/features/email-campaign-writer"
+      },
+      {
+        "id": "seo-optimizations",
+        "title": "AI SEO Optimizer",
+        "originalPath": "/features/seo-optimizations"
+      },
+      {
+        "id": "reputation-trend-forecasting",
+        "title": "reputation trend forecasting",
+        "originalPath": "/features/reputation-trend-forecasting"
+      },
+      {
+        "id": "sentimentanalysis-classify-sentiment-urge",
+        "title": "sentimentanalysis classify sentiment urge",
+        "originalPath": "/features/sentimentanalysis-classify-sentiment-urge"
+      },
+      {
+        "id": "competitorsentiment-ai",
+        "title": "competitorsentiment ai",
+        "originalPath": "/features/competitorsentiment-ai"
+      },
+      {
+        "id": "reputationriskalert-forecasting-branddama",
+        "title": "reputationriskalert forecasting branddama",
+        "originalPath": "/features/reputationriskalert-forecasting-branddama"
+      },
+      {
+        "id": "audiencesentimentanalysis-aggregate-perce",
+        "title": "audiencesentimentanalysis aggregate perce",
+        "originalPath": "/features/audiencesentimentanalysis-aggregate-perce"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "visual-pairing"
+    ],
+    "ai": true,
+    "representativeId": "visual-pairing",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "visual-pairing",
+        "title": "Visual + Copy Pairing",
+        "originalPath": "/features/visual-pairing"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "review-crawler-service-with-scheduled-polling-of-external",
+      "scheduled-batch-review-crawling-from-external-sources"
+    ],
+    "ai": true,
+    "representativeId": "review-crawler-service-with-scheduled-polling-of-external",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "review-crawler-service-with-scheduled-polling-of-external",
+        "title": "Review crawler service with scheduled polling of e...",
+        "originalPath": "/features/review-crawler-service-with-scheduled-polling-of-external"
+      },
+      {
+        "id": "scheduled-batch-review-crawling-from-external-sources",
+        "title": "No scheduled batch review crawling from external s...",
+        "originalPath": "/features/scheduled-batch-review-crawling-from-external-sources"
+      }
+    ]
+  }
+]

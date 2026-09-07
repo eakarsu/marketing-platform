@@ -1,0 +1,3272 @@
+{
+  "mapped": [
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "partner-agreement-library",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "partner-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "tracking-link-code-registry",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "tracking-link-code-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "click-event-ingestion",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "click-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "order-attribution",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "order-attribution",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "attribution-window-control",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "attribution-window-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "coupon-poaching-detection",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "coupon-poaching-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "return-cancellation-reversal",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "return-cancellation-reversal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "commission-tier-calculation",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "commission-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "performance-bonus",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "performance-bonus",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "self-referral-detection",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "self-referral-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "fraud-traffic-scoring",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "fraud-traffic-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "partner-statement-audit",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "partner-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "payment-correction",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "payment-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "partner-campaign-analytics",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/app.config.mjs",
+      "canonical": "partner-campaign-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "program-and-agreement-library",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "program-and-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "partner-and-dealer-registry",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "partner-and-dealer-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "fund-accrual-calculation",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "fund-accrual-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "eligibility-and-activity-rules",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "eligibility-and-activity-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "campaign-preapproval",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "campaign-preapproval",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "proof-of-performance-collection",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "proof-of-performance-collection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "invoice-and-payment-evidence",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "invoice-and-payment-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "brand-compliance-validation",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "brand-compliance-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "claim-deadline-tracking",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "claim-deadline-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "claim-preparation-and-submission",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "claim-preparation-and-submission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "vendor-rejection-management",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "vendor-rejection-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "resubmission-workflow",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "resubmission-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "credit-and-payment-reconciliation",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "credit-and-payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "expiring-fund-alerts",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "expiring-fund-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "partner-utilization-analytics",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "partner-utilization-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "campaign-roi-and-recovery-analytics",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/app.config.mjs",
+      "canonical": "campaign-roi-and-recovery-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "agency-and-scope-library",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "agency-and-scope-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "campaign-and-media-plan-registry",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "campaign-and-media-plan-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "insertion-order-ingestion",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "insertion-order-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "platform-delivery-reconciliation",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "platform-delivery-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "rate-and-cpm-validation",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "rate-and-cpm-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "underdelivery-detection",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "underdelivery-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "invalid-traffic-and-viewability",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "invalid-traffic-and-viewability",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "agency-fee-recalculation",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "agency-fee-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "technology-fee-audit",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "technology-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "rebate-and-incentive-reconciliation",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "rebate-and-incentive-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "credit-and-makegood-control",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "credit-and-makegood-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "invoice-exception-workbench",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "invoice-exception-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "agency-platform-dispute",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "agency-platform-dispute",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "payment-and-recovery-reconciliation",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "payment-and-recovery-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "campaign-agency-and-channel-analytics",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/app.config.mjs",
+      "canonical": "campaign-agency-and-channel-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "insertion-order-library",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "insertion-order-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "campaign-creative-registry",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "campaign-creative-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "dsp-log-ingestion",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "dsp-log-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "ssp-log-ingestion",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "ssp-log-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "bid-request-matching",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "bid-request-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "impression-event-matching",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "impression-event-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "clearing-price-reconstruction",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "clearing-price-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "dsp-fee-calculation",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "dsp-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "ssp-fee-calculation",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "ssp-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "data-fee-audit",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "data-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "verification-fee-audit",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "verification-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "invalid-traffic-adjustment",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "invalid-traffic-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "invoice-reconciliation",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "invoice-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "supply-path-exception-workflow",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "supply-path-exception-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "campaign-publisher-analytics",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/app.config.mjs",
+      "canonical": "campaign-publisher-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "retail-media-agreement-library",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "retail-media-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "campaign-order-ingestion",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "campaign-order-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "audience-targeting-evidence",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "audience-targeting-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "impression-delivery-validation",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "impression-delivery-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "click-event-reconciliation",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "click-event-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "rate-card-calculation",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "rate-card-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "budget-pacing-control",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "budget-pacing-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "attributed-sales-methodology",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "attributed-sales-methodology",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "incrementality-evidence",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "incrementality-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "invalid-traffic-adjustment",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "invalid-traffic-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "under-delivery-makegood",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "under-delivery-makegood",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "invoice-campaign-matching",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "invoice-campaign-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "retailer-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "retailer-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "network-campaign-analytics",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/app.config.mjs",
+      "canonical": "network-campaign-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/ab-tests",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "ab-tests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/brand-voice-check",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "brand-voice-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/benchmark",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/translator",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "translator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/competitor-sentiment",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "competitor-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/audience-sentiment",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "audience-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/template-builder",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "template-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/visual-pairing",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "visual-pairing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/copy-scorer",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "copy-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/brand-profiles",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "brand-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "/usage",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "canonical": "usage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "stats",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "canonical": "stats",
+      "kind": "route"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "persona-generator",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "canonical": "persona-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "sourceKey": "ad-compliance",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "canonical": "ad-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "sourceKey": "claim-substantiation",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "canonical": "claim-substantiation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "users",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "trucks",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "trucks",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "gps_locations",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "gps-locations",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "neighborhoods",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "neighborhoods",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "campaigns",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "campaigns",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "headlines",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "headlines",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "billboard_displays",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "billboard-displays",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "reports",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "demographic_data",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "demographic-data",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "ai_generation_logs",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "generation-logs",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "ab_tests",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "ab-tests",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "geofences",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "geofences",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "brand_safety_scores",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "brand-safety-scores",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDynamiclocationaware",
+      "sourceKey": "weather_contexts",
+      "source": "/Volumes/external/projects/AIDynamiclocationaware",
+      "canonical": "weather-contexts",
+      "kind": "schema"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/influencers",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "influencers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/brands",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "brands",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/content-calendar",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "content-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/outreach",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/audience-insights",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "audience-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/competitors",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/benchmarks",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "benchmarks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/roi-calculator",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "roi-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "/brand-safety-clause-monitor",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "canonical": "brand-safety-clause-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "audience-segmentation",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "audience-segmentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "performance-prediction",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "performance-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "fraud-detection",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "ltv-prediction",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "ltv-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "audience-overlap",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "audience-overlap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "trend-calendar",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "trend-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "micro-influencer-discovery",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "micro-influencer-discovery",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "content",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "content",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "sentiment",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "matching",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "outreach",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "audience",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "audience",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "competitor",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "competitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "strategy",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "brand-safety",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "brand-safety",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "roi-analysis",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/pages/AITools.jsx",
+      "canonical": "roi-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-agentic-campaign-manager-autonomously-di",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "agentic-campaign-manager-autonomously-di",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-influencer-ltv-prediction-recommending-l",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "influencer-ltv-prediction-recommending-l",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-audience-overlap-detection-recommending-",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "audience-overlap-detection-recommending",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-trend-content-calendar-ai-predicting-top",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "trend-content-calendar-ai-predicting-top",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-fake-follower-detection-scoring-engageme",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "fake-follower-detection-scoring-engageme",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "cf-micro-influencer-discovery-flagging-emer",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "micro-influencer-discovery-flagging-emer",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-audience-segmentation-ai-audiencejs-i",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "audience-segmentation-ai-audiencejs-i",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-performance-prediction-model",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "performance-prediction-model",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-fake-follower-fraud-detector",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "fake-follower-fraud-detector",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-content-calendar-trend-ai",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "content-calendar-trend-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-live-social-media-api-integrations-are",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "live-social-media-api-integrations-are",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-webhook-receivers-for-engagement-even",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "webhook-receivers-for-engagement-even",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-file-upload-for-content-briefs",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "file-upload-for-content-briefs",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-notification-engine-0-references",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "notification-engine-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "sourceKey": "gap-no-e-signature-for-contracts",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "canonical": "e-signature-for-contracts",
+      "kind": "route"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/segments",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "segments",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/tags",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "tags",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/custom-fields",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "custom-fields",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/automations",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "automations",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/landing-pages",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "landing-pages",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/forms",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "forms",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/images",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "images",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/consent-fatigue",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "consent-fatigue",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/ab-test",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "ab-test",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "/engine-status",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "canonical": "engine-status",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "content-writer",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "content-writer",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "subject-optimizer",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "subject-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "social-manager",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "social-manager",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "ad-creator",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "ad-creator",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "review-response",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "review-response",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "send-time",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "send-time",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "audience-segmenter",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "audience-segmenter",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "campaign-suggester",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "campaign-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "segment-builder",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "segment-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "journey-optimizer",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "journey-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "attribution-modeler",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "attribution-modeler",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "budget-allocator",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "budget-allocator",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "fatigue-detector",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "fatigue-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "persona-creator",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "persona-creator",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "influencer-matcher",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "influencer-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "hashtag-generator",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "hashtag-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "landing-page-builder",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "landing-page-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "sourceKey": "email-campaign-writer",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/pages/AITools.tsx",
+      "canonical": "email-campaign-writer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "ad-copies",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "ad-copies",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "email-campaigns",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "email-campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "social-posts",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "social-posts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "product-descriptions",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "product-descriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "blog-posts",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "blog-posts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "landing-pages",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "landing-pages",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "taglines",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "taglines",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "seo-content",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "seo-content",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "press-releases",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "press-releases",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "video-scripts",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "video-scripts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "seo-optimizations",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "seo-optimizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "tone-adjustments",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "tone-adjustments",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "ab-variations",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "ab-variations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "headline-scores",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "headline-scores",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "localizations",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator/frontend/src/App.js",
+      "canonical": "localizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "copy-views",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "canonical": "copy-views",
+      "kind": "route"
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "sourceKey": "offer-message-fit",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "canonical": "offer-message-fit",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/fake-reviews",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "fake-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/review-summaries",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "review-summaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/trends",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/counterfeit",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "counterfeit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/competitors",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/personalizer",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "personalizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "/solicitations",
+      "source": "/Volumes/external/projects/AIReviewResponseManager/frontend/src/pages/Dashboard.js",
+      "canonical": "solicitations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "reviews",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "templates",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "businesses",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "businesses",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "drafts",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "drafts",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "reputation",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "reputation",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "bulk-import",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "bulk-import",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "semantic-search",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "semantic-search",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "quality-scorer",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "quality-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "reputation-risk",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "reputation-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "translate-response",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "translate-response",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "team-assignment",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "team-assignment",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "retention-targets",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "retention-targets",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-personalized-response-generation",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "personalized-response-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-fake-review-identification",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "fake-review-identification",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-reputation-trend-forecasting",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "reputation-trend-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-multilanguage-response",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "multilanguage-response",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-competitor-benchmark-dashboard",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "competitor-benchmark-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "cf-customer-retention-targeting",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "customer-retention-targeting",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-generateresponse-aidrafted-responses",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "generateresponse-aidrafted-responses",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-sentimentanalysis-classify-sentiment-urge",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "sentimentanalysis-classify-sentiment-urge",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-fakereviewdetector-ml-scoring",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "fakereviewdetector-ml-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-competitorsentiment-ai",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "competitorsentiment-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-responsequalityscorer",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "responsequalityscorer",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-reputationriskalert-forecasting-branddama",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "reputationriskalert-forecasting-branddama",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-review-aggregation-from-google-yelp-tripa",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "review-aggregation-from-google-yelp-tripa",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-publishing-to-multiple-platforms",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "publishing-to-multiple-platforms",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-limited-team-collaboration-assignment-commen",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "limited-team-collaboration-assignment-commen",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-analytics-dashboard-response-rate-timetor",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "analytics-dashboard-response-rate-timetor",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-notifications-for-new-reviews",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "notifications-for-new-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "sourceKey": "gap-no-smsemail-solicitor-channel-integration",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "canonical": "smsemail-solicitor-channel-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AISEOContentWriter",
+      "sourceKey": "AISEOContentWriter",
+      "source": "/Volumes/external/projects/AISEOContentWriter",
+      "canonical": "aiseocontent-writer",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "post",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "post",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "hashtag",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "hashtag",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "caption",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "caption",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "reply",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "reply",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "calendar",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "voice",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "voice",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "competitor",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "competitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "report",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIGenerator.jsx",
+      "canonical": "report",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "posting-time",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIInsights.jsx",
+      "canonical": "posting-time",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "content-mix",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIInsights.jsx",
+      "canonical": "content-mix",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "sentiment",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIInsights.jsx",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "competitor-swipe",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIInsights.jsx",
+      "canonical": "competitor-swipe",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "influencer-finder",
+      "source": "/Volumes/external/projects/AISocialMediaManager/frontend/src/pages/AIInsights.jsx",
+      "canonical": "influencer-finder",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "posts",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "posts",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "accounts",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "accounts",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "campaigns",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "campaigns",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "hashtags",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "hashtags",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "templates",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "templates",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "competitors",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "brand-voice",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "brand-voice",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "auto-replies",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "auto-replies",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "team",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "team",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "ai-generator",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "generator",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "content-calendar",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "content-calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "scheduled-posts",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "scheduled-posts",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "performance-analytics",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "performance-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "hashtag-fatigue",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "hashtag-fatigue",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-agentic-social-manager",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "agentic-social-manager",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-crossplatform-content-adaptation",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "crossplatform-content-adaptation",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-viral-potential-scoring",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "viral-potential-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-competitor-benchmarking",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "competitor-benchmarking",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-microinfluencer-matching",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "microinfluencer-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "cf-sentimentdriven-response",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "sentimentdriven-response",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-postingtimeoptimizer-engagementbased",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "postingtimeoptimizer-engagementbased",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-contentmixrecommender",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "contentmixrecommender",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-competitorcontentswipe-topperforming-anal",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "competitorcontentswipe-topperforming-anal",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-influencerfinder",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "influencerfinder",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-audiencesentimentanalysis-aggregate-perce",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "audiencesentimentanalysis-aggregate-perce",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-platform-api-integration-to-actually-publ",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "platform-api-integration-to-actually-publ",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-commentdm-management-routes",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "commentdm-management-routes",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-employee-advocacy-program",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "employee-advocacy-program",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-paid-advertising-management",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "paid-advertising-management",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-influencer-outreach-workflow",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "influencer-outreach-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialMediaManager",
+      "sourceKey": "gap-no-crisis-detectionalerts-on-social-listenin",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "canonical": "crisis-detectionalerts-on-social-listenin",
+      "kind": "route"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/testimonials",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "testimonials",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/case-studies",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "case-studies",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/social-widgets",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "social-widgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/success-metrics",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "success-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/customer-quotes",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "customer-quotes",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/video-testimonials",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "video-testimonials",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/widget-builder",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "widget-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/testimonial-variants",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "testimonial-variants",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/outreach-campaigns",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "outreach-campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/customer-segmentation",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "customer-segmentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/testimonial-likelihood",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "testimonial-likelihood",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/authenticity-scorer",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "authenticity-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/persona-variants",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "persona-variants",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-sentiment-driven-variant-generation-tuned-to-buyer-personas-price-conscious",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "sentiment-driven-variant-generation-tuned-to-buyer-personas-price-conscious",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-multi-modal-proof-widgets-combining-video-audio-text-with",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "multi-modal-proof-widgets-combining-video-audio-text-with",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-competitive-testimonial-analysis-via-rag-over-competitor-reviews",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "competitive-testimonial-analysis-via-rag-over-competitor-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-authenticity-scoring-to-detect-ai-generated-vs-real-testimonials",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "authenticity-scoring-to-detect-ai-generated-vs-real-testimonials",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-one-click-marketplace-publishing-to-capterra-g2-producthunt-with",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "one-click-marketplace-publishing-to-capterra-g2-producthunt-with",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/cf-review-crawler-service-with-scheduled-polling-of-external",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "review-crawler-service-with-scheduled-polling-of-external",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-ai-driven-customer-segmentation-for-targeted-testimonial-selection",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "ai-driven-customer-segmentation-for-targeted-testimonial-selection",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-predictive-scoring-for-which-customers-are-most",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "predictive-scoring-for-which-customers-are-most",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-automated-visual-asset-poster-social-card-generation",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "automated-visual-asset-poster-social-card-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-integrations-with-trustpilot-g2-capterra-review-platforms",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "integrations-with-trustpilot-g2-capterra-review-platforms",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-a-b-testing-framework-for-widget-placement",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "a-b-testing-framework-for-widget-placement",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-scheduled-batch-review-crawling-from-external-sources",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "scheduled-batch-review-crawling-from-external-sources",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-no-webhooks-notifications-system-for-new-review-or",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "webhooks-notifications-system-for-new-review-or",
+      "kind": "definition"
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "sourceKey": "/gap-limited-audit-logging-single-reference-not-a-dedicated",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "canonical": "limited-audit-logging-single-reference-not-a-dedicated",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/podcasts",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "podcasts",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/episodes",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "episodes",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/issues",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "issues",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/advertisers",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "advertisers",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-affiliate-influencer-commission-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-affiliate-influencer-commission-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-coop-advertising-mdf-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-coop-advertising-mdf-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-media-buying-agency-fee-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-media-buying-agency-fee-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-programmatic-ad-supply-path-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-programmatic-ad-supply-path-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-retail-media-network-spend-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-retail-media-network-spend-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/history",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/share/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "history",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "/campaigns/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAdCopyCreativeGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAdCopyCreativeGenerator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIBrandVoiceConsistencyChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "/ai/:toolKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBrandVoiceConsistencyChecker",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "/advanced-ai",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInfluencerManagementPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInfluencerManagementPlatform",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/aIMarketingAutomation/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "login",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "register",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/campaigns/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/campaigns/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/campaigns/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/contacts/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/contacts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/contacts/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/templates/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/templates/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/automations/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/automations/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/landing-pages/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/landing-pages/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/forms/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "/forms/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aIMarketingAutomation",
+      "key": "settings",
+      "source": "/Volumes/external/projects/aIMarketingAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMarketingCopyGenerator",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AiMarketingCopyGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/reviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/templates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/businesses/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/drafts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/fake-reviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/review-summaries/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/trends/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/counterfeit/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/competitors/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/personalizer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "/solicitations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIReviewResponseManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIReviewResponseManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISocialMediaManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialMediaManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialMediaManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialMediaManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISocialMediaManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AISocialMediaManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AISocialProofGenerator/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AISocialProofGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISocialProofGenerator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "key": "/",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "podcast-ad-reconciliation",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/podcast-ad-reconciliation/app/shell.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "partner-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tracking-link-code-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "click-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "order-attribution",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "attribution-window-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "coupon-poaching-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-cancellation-reversal",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "performance-bonus",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "self-referral-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fraud-traffic-scoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-correction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-campaign-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-and-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-and-dealer-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-accrual-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligibility-and-activity-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-preapproval",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-performance-collection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-and-payment-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-compliance-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-deadline-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-preparation-and-submission",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-rejection-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resubmission-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-and-payment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expiring-fund-alerts",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-utilization-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-roi-and-recovery-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-and-scope-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-and-media-plan-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insertion-order-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "platform-delivery-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-and-cpm-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "underdelivery-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invalid-traffic-and-viewability",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-fee-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "technology-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-and-incentive-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-and-makegood-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-exception-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-platform-dispute",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-and-recovery-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-agency-and-channel-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insertion-order-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-creative-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dsp-log-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ssp-log-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bid-request-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "impression-event-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "clearing-price-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dsp-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ssp-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "data-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "verification-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invalid-traffic-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supply-path-exception-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-publisher-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retail-media-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "campaign-order-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audience-targeting-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "impression-delivery-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "click-event-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-card-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "budget-pacing-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "attributed-sales-methodology",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "incrementality-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invalid-traffic-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "under-delivery-makegood",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-campaign-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retailer-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "network-campaign-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "AISEOContentWriter",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

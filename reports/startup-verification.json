@@ -1,0 +1,8 @@
+{
+  "id": "marketing-platform",
+  "port": 46053,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:54.633Z"
+}

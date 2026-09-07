@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ai-affiliate-influencer-commission-reconciliation",
+    "name": "Affiliate influencer commission reconciliation",
+    "sourceProject": "ai-affiliate-influencer-commission-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-coop-advertising-mdf-recovery",
+    "name": "Coop advertising mdf recovery",
+    "sourceProject": "ai-coop-advertising-mdf-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-media-buying-agency-fee-reconciliation",
+    "name": "Media buying agency fee reconciliation",
+    "sourceProject": "ai-media-buying-agency-fee-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-programmatic-ad-supply-path-fee-audit",
+    "name": "Programmatic ad supply path fee audit",
+    "sourceProject": "ai-programmatic-ad-supply-path-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-retail-media-network-spend-reconciliation",
+    "name": "Retail media network spend reconciliation",
+    "sourceProject": "ai-retail-media-network-spend-reconciliation",
+    "services": []
+  },
+  {
+    "id": "AIAdCopyCreativeGenerator",
+    "name": "Ad copy creative generator",
+    "sourceProject": "AIAdCopyCreativeGenerator",
+    "services": []
+  },
+  {
+    "id": "AIBrandVoiceConsistencyChecker",
+    "name": "Brand voice consistency checker",
+    "sourceProject": "AIBrandVoiceConsistencyChecker",
+    "services": []
+  },
+  {
+    "id": "AIDynamiclocationaware",
+    "name": "Dynamiclocationaware",
+    "sourceProject": "AIDynamiclocationaware",
+    "services": []
+  },
+  {
+    "id": "AIInfluencerManagementPlatform",
+    "name": "Influencer management platform",
+    "sourceProject": "AIInfluencerManagementPlatform",
+    "services": []
+  },
+  {
+    "id": "aIMarketingAutomation",
+    "name": "A imarketing automation",
+    "sourceProject": "aIMarketingAutomation",
+    "services": []
+  },
+  {
+    "id": "AiMarketingCopyGenerator",
+    "name": "Marketing copy generator",
+    "sourceProject": "AiMarketingCopyGenerator",
+    "services": []
+  },
+  {
+    "id": "AIReviewResponseManager",
+    "name": "Review response manager",
+    "sourceProject": "AIReviewResponseManager",
+    "services": []
+  },
+  {
+    "id": "AISEOContentWriter",
+    "name": "Seocontent writer",
+    "sourceProject": "AISEOContentWriter",
+    "services": []
+  },
+  {
+    "id": "AISocialMediaManager",
+    "name": "Social media manager",
+    "sourceProject": "AISocialMediaManager",
+    "services": []
+  },
+  {
+    "id": "AISocialProofGenerator",
+    "name": "Social proof generator",
+    "sourceProject": "AISocialProofGenerator",
+    "services": []
+  },
+  {
+    "id": "podcast-ad-reconciliation",
+    "name": "Podcast ad reconciliation",
+    "sourceProject": "podcast-ad-reconciliation",
+    "services": []
+  }
+]
